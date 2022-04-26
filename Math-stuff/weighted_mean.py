@@ -19,11 +19,11 @@ class weighted_mean():
         
         print("___________________")
 
-        print("Denominator " + str(self.DENOMINATOR ))
+        print("Denominator or sum of weights " + str(self.DENOMINATOR ))
        
         print("=")
         
-        print("total "+ str(self.TOTAL))
+        print("total or weighted average "+ str(self.TOTAL))
 
     def denominator_calc(self):
         for t in range(len(self.x)):
