@@ -1,6 +1,3 @@
-from re import S
-
-
 odd = [20,100,45, 55,800,7800]
 
 #Set the list to be in ascending Order
